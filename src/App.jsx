@@ -11,7 +11,7 @@ import BlurBlob from './components/BlurBlob';
 
 const App = () => {
   return (
-    <div className="bg-[#050414]">
+    <div className="bg-gradient-to-br from-[#0a0a2a] via-[#1a1a3a] to-[#0a0a2a] min-h-screen">
 
        <BlurBlob position={{ top: '35%', left: '20%' }} size={{ width: '30%', height: '40%' }} />
 

@@ -134,31 +134,27 @@ export const SkillsInfo = [
   export const projects = [
     {
       id: 0,
-      title: "Blog.Ai - Full Stack Ai Powered Blogging Platform",
-      description:"Blog.AI is a modern, AI-powered blogging web application that leverages artificial intelligence to help users generate, manage, and publish blog content more efficiently. It is built using the MERN stack (MongoDB, Express.js, React, Node.js) and integrates advanced features.",
+      title: "Blog.Ai-Blogging Platform",
       image: githubdetLogo,
-      tags: ["ReactJs", "TailwindCSS", "JavaScript", "Expressjs", "MongoDB"],
+      tags: ["ReactJs","JavaScript","TailwindCSS", "Expressjs", "MongoDB"],
       github: "https://github.com/karankumarece19/Blog.AI",
       webapp: "https://blog-aii.vercel.app/",
     },
     {
       id: 1,
-      title: "Fantasy 11 – Fantasy Sports Web App",
-      description:
-        "A a full-stack fantasy sports platform that allows users to create and manage virtual cricket teams.Utilized Sequelize ORM to interact with a MySQL database, handling player stats, team data, and match history.Used JSON data to simulate matches between two teams, dynamically calculating points based on player performance.",
-      image: csprepLogo,
-      tags: ["JavaScript, jQuery, Node.js, Express.js, Sequelize (ORM)."],
-      github: " https://github.com/karankumarece19/Fantasy11",
-      webapp: "https://fantasy11-khaki.vercel.app/",
-    },
-    {
-      id: 2,
       title: "Ai-Chat Assistant",
-      description:
-        "A modern, responsive AI chatbot built with React and powered by Google Gemini 2.0 API. Features a beautiful chat interface with conversation history, real-time responses, and markdown support.",
       image: movierecLogo,
       tags: ["React JS", "Gemini-AI", "TailwindCSS", "JavaScript"],
       github: "https://github.com/karankumarece19/Ai-Chatbot-using-React",
       webapp: "https://ai-chatbot-using-react.vercel.app/",
+
+    },
+    {
+      id: 2,
+      title: "Fantasy 11 – Sports Web App",
+      image: csprepLogo,
+      tags: ["JavaScript", "JQuery", "Node.js", "Express.js", "Sequelize (ORM)"],
+      github: " https://github.com/karankumarece19/Fantasy11",
+      webapp: "https://fantasy11-khaki.vercel.app/",
     },
   ];  

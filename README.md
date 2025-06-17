@@ -4,7 +4,7 @@ A modern, responsive developer portfolio built with **React**, **Vite**, and **T
 
 ## 🚀 Live Demo
 
-[View Portfolio Live](https://blog-aii.vercel.app/) <!-- Replace with your actual portfolio live link if different -->
+[View Portfolio Live](https://portfolio-rust-alpha-12.vercel.app/) <!-- Replace with your actual portfolio live link if different -->
 
 ---
 
